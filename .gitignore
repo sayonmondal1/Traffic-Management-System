@@ -1,0 +1,39 @@
+# =====================
+# IGNORE HEAVY DATA
+# =====================
+
+# Models & videos
+models/*
+!models/.gitkeep
+
+videos/*
+!videos/.gitkeep
+
+# Dataset (VERY IMPORTANT)
+data/*
+!data/.gitkeep
+
+# CSV files (large generated data)
+CSV_Files/*
+!CSV_Files/.gitkeep
+
+# =====================
+# FILE TYPES
+# =====================
+*.pt
+*.mp4
+*.mov
+*.csv
+*.cache
+
+# =====================
+# PYTHON
+# =====================
+__pycache__/
+*.pyc
+
+# =====================
+# SYSTEM
+# =====================
+.DS_Store
+Thumbs.db

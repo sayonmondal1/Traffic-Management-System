@@ -1,0 +1,11 @@
+train: D:/Programming/Python/Python Projects/Traffic_Management_System/data/train/images
+val: D:/Programming/Python/Python Projects/Traffic_Management_System/data/valid/images
+test: D:/Programming/Python/Python Projects/Traffic_Management_System/data/test/images
+nc: 1
+names: ['number_plate']
+roboflow:
+  workspace: yolox-qcftu
+  project: indian-number-plate-keeo5
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolox-qcftu/indian-number-plate-keeo5/dataset/2
