@@ -1,6 +1,6 @@
-train: D:/Programming/Python\Python Projects/Traffic_Management_System/dataset/images/train
-val: D:/Programming/Python/Python Projects/Traffic_Management_System/dataset/images/val
-test: D:/Programming/Python/Python Projects/Traffic_Management_System/dataset/images/test
+train: D:/Programming/Python/Python Projects/Traffic_Management_System/dataset2/train
+val: D:/Programming/Python/Python Projects/Traffic_Management_System/dataset2/valid
+test: D:/Programming/Python/Python Projects/Traffic_Management_System/dataset2/test
 nc: 1
 names: ["license_plate"]
 # roboflow:
